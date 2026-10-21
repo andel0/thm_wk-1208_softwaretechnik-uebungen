@@ -12,7 +12,7 @@ Kürzel: andel0
 
 ## Systemspezifikation
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Spezifikation der Funktionen der Software
 
 - Beschreiben, welche Termindaten mit dem Kalendersystem der Hochschule ausgetauscht werden
 - Mit Lehrenden und Sekretariaten Schritt für Schritt beschreiben, wie ein Sprechstundentermin gebucht wird
@@ -23,7 +23,7 @@ Kürzel: andel0
 
 ## Systemkonstruktion
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Klarstellung der technischen Vorgehensweise
 
 - Das System in Komponenten zerlegen — z.B. Terminverwaltung, Benachrichtigung, Anmeldung — und deren Schnittstellen festlegen
 - Die API entwerfen: Endpunkte, Datenformat und die Anmeldung der KI-Agenten festlegen
@@ -33,14 +33,14 @@ Kürzel: andel0
 
 ## Implementierung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Umsetzung der Funktionen
 
 - Die Komponente „Benachrichtigung“ programmieren
 - Die fertige Komponente „Terminverwaltung“ für sich testen, ehe sie mit anderen zusammenkommt
 
 ## Integration & Einführung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Probeteslauf
 
 - Die THM installiert das System in ihrer eigenen Umgebung und prüft es in eigener Verantwortung
 - Das System als Ganzes unter Federführung des Qualitätsbeauftragten gegen die Testfälle prüfen
@@ -50,7 +50,7 @@ Kürzel: andel0
 
 ## Wartung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Updates und Instandhaltung der Software
 
 - Einen Fehler bei der Zeitumstellung beheben, den ein Sekretariat gemeldet hat
 - Eine Warteliste für ausgebuchte Termine nachrüsten, die sich die Lehrenden nach einem Semester wünschen
